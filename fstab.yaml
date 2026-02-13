@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: :https://author-p96753-e1733420.adobeaemcloud.com/bin/franklin.delivery/yashvtw/eds-repository/main 
+    type: "markup"
+    suffix: ".html"
